@@ -1,5 +1,7 @@
+import AppBar from './components/AppBar/AppBar'
+
 function App() {
-  return <div>test</div>
+  return <AppBar></AppBar>
 }
 
 export default App
