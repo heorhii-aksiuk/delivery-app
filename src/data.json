@@ -1,0 +1,69 @@
+[
+  {
+    "shop": "McDonald's",
+    "products": [
+      {
+        "name": "Big Tasty",
+        "price": 100
+      },
+      {
+        "name": "Big Mac",
+        "price": 80
+      },
+      {
+        "name": "Cheeseburger",
+        "price": 40
+      },
+      {
+        "name": "Hamburger",
+        "price": 35
+      },
+      {
+        "name": "McDouble",
+        "price": 60
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "shop": "KFC",
+    "products": [
+      {
+        "name": "KFCBig Tasty",
+        "price": 100
+      },
+      {
+        "name": "KFCBig Mac",
+        "price": 80
+      },
+      {
+        "name": "KFCCheeseburger",
+        "price": 40
+      },
+      {
+        "name": "KFCHamburger",
+        "price": 35
+      },
+      {
+        "name": "KFCMcDouble",
+        "price": 60
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "shop": "Burger King",
+    "products": [],
+    "id": "3"
+  },
+  {
+    "shop": "Salateira",
+    "products": [],
+    "id": "4"
+  },
+  {
+    "shop": "Puzata Hata",
+    "products": [],
+    "id": "5"
+  }
+]

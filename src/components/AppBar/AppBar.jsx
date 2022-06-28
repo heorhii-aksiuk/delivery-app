@@ -17,7 +17,6 @@ function AppBar() {
 export default AppBar
 
 const Container = styled.header`
-  position: fixed;
   height: 80px;
   min-width: 100%;
   background-color: #138bce;
@@ -26,7 +25,6 @@ const Container = styled.header`
 const Navigation = styled.nav``
 
 const List = styled.ul`
-  margin: 0;
   display: flex;
 `
 
